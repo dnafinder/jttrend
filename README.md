@@ -18,3 +18,10 @@ Assumptions:
 - Groups must be selected in a meaningful order i.e. ordered
 If you do not choose to enter your own group scores then scores are
 allocated uniformly (1 ... n) in order of selection of the n groups.
+
+          Created by Giuseppe Cardillo
+          giuseppe.cardillo-edta@poste.it
+
+To cite this file, this would be an appropriate format:
+Cardillo G. (2008) Jonckheere-Terpstra test: A nonparametric Test for Trend
+http://www.mathworks.com/matlabcentral/fileexchange/22159
